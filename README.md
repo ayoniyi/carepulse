@@ -118,8 +118,4 @@ carepulse/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 Support
-
-For support, please open an issue in the GitHub repository or contact the development team.
-
 ---
